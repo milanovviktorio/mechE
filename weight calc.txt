@@ -1,2 +1,11 @@
 WEIGHT CALCULATION FOR ITERATION 1 OF MECHE
 -------------------------------------------
+
+Total size:
+150x230x120(standard, in mm) 
+
+Tibia = Femur = 85mm
+
+11kg Servos => 11*2/8.5 = 2.5 MAX WEIGHT, 
+
+robot is on >=2 legs at any time
