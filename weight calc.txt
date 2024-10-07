@@ -8,4 +8,5 @@ Tibia = Femur = 85mm
 
 11kg Servos => 11*2/8.5 = 2.5 MAX WEIGHT, 
 
-robot is on >=2 legs at any time
+robot is on >=2 legs at any time.
+
